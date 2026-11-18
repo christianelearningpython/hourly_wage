@@ -5,7 +5,7 @@ Fonctionnalités
 - Saisie du salaire annuel et du nombre d'heures travaillées par semaine
 - Prise en charge des nombres décimaux (par exemple 37.5 heures)
 
-[!](salaire_horaire.png)
+![Exemple d'exécution](salaire_horaire.png)
 
 Ce que j'ai appris
 - Définir et appeler des fonctions avec des paramètres et return
